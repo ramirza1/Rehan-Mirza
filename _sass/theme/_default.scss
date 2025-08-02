@@ -2,24 +2,24 @@
    DEFAULT THEME
    ========================================================================== */
 
-/* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : #9ba1a6;
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* Color codes used for the theme - Cozy Professor */
+$gray                       : #8b4513;          /* Coffee brown base */
+$dark-gray                  : #2c3e50;          /* Deep charcoal */
+$darker-gray                : #1a252f;          /* Even darker charcoal */
+$light-gray                 : #6f4e37;          /* Rich coffee */
+$lighter-gray               : #d4c5b0;          /* Soft tan */
 
 /* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+$danger-color               : #d63384;          /* Warm red */
+$info-color                 : #6f4e37;          /* Coffee info */
+$notice-color               : #8b4513;          /* Coffee notice */
+$success-color              : #198754;          /* Green success */
+$warning-color              : #fd7e14;          /* Orange warning */
 
 /* Other basic settings for the template */
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$global-transition          : all 0.2s ease-in-out;
+$border-radius              : 6px;              /* Slightly more rounded */
+$box-shadow                 : 0 2px 4px rgba(139, 69, 19, 0.1);
+$global-transition          : all 0.3s ease-in-out;
 $masthead-height            : 70px;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
@@ -28,20 +28,34 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
-    --global-base-color                 : #{$gray};
-    --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #f2f3f3;
-    --global-border-color               : #{$lighter-gray};
-    --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #52adc8;
-    --global-link-color-hover           : mix(#000, #2f7f93, 25%);
-    --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
-    --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
-    --global-text-color                 : #{$dark-gray};
-    --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$lighter-gray};
+  /* Same variable names; just better values */
+  --global-base-color                : #8b5e3c;        /* coffee accent */
+  --global-bg-color                  : #FBF7EF;        /* warm cream (brighter) */
+  --global-footer-bg-color           : #F0E7D6;        /* slightly darker cream */
+  --global-border-color              : #E6DCCD;        /* light tan */
+  --global-dark-border-color         : #D8CBB5;        /* darker tan */
+
+  /* Text (cooler ink so it “pops” on warm paper) */
+  --global-text-color                : #1F2A37;        /* primary */
+  --global-text-color-light          : #6B7280;        /* muted/meta */
+
+  /* Links */
+  --global-link-color                : #1E3A8A;        /* bookish blue */
+  --global-link-color-hover          : #1D4ED8;
+  --global-link-color-visited        : #6B21A8;
+
+  /* Code & captions */
+  --global-code-background-color     : #FFF9F0;        /* paper-like */
+  --global-code-text-color           : #334155;        /* cooler ink */
+  --global-fig-caption-color         : #6f4e37;        /* your coffee brown */
+
+  /* Tables & nav */
+  --global-thead-color               : #F2EADB;
+  --global-masthead-link-color       : #1F2A37;
+  --global-masthead-link-color-hover : #1E3A8A;
+
+  /* Optional (harmless if unused, adds “layers”) */
+  --surface-1                        : #F4ECDF;        /* card */
+  --surface-2                        : #EADFC9;        /* elevated card */
+  --masthead-bg                      : linear-gradient(180deg, #FFFAF0 0%, #F4ECDF 100%);
 }

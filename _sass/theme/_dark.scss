@@ -2,31 +2,31 @@
    DARK THEME
    ========================================================================== */
 
-/* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
+/* Color codes used for the theme - Tech Vibe */
+$gray                       : #58a6ff;          /* Tech blue base */
+$dark-gray                  : #8b949e;          /* Muted gray */
+$darker-gray                : #6e7681;          /* Darker muted gray */
+$light-gray                 : #c9d1d9;          /* Light gray */
 
-$background                 : #474747;
-$background-light           : mix(#fff, $background, 80%);
-$background-lighter         : mix(#fff, $background, 90%);
-$text                       : #ffffff;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$background                 : #0d1117;          /* GitHub dark background */
+$background-light           : #161b22;          /* Slightly lighter dark */
+$background-lighter         : #21262d;          /* Even lighter dark */
+$text                       : #c9d1d9;          /* Light gray text */
+$link                       : #58a6ff;          /* Tech blue links */
+$link-dark                  : #1f6feb;          /* Darker tech blue */
+$link-light                 : #79c0ff;          /* Lighter tech blue */
 
 /* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+$danger-color               : #f85149;          /* Red for dark theme */
+$info-color                 : #58a6ff;          /* Tech blue info */
+$notice-color               : #8b949e;          /* Muted notice */
+$success-color              : #3fb950;          /* Green success */
+$warning-color              : #d29922;          /* Orange warning */
 
 /* Other basic settings for the template */
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$global-transition          : all 0.2s ease-in-out;
+$border-radius              : 6px;              /* Slightly more rounded */
+$box-shadow                 : 0 2px 8px rgba(0, 0, 0, 0.3);
+$global-transition          : all 0.3s ease-in-out;
 $masthead-height            : 70px;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
@@ -35,20 +35,30 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$background};
-    --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
-    --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : #{$light-gray};
-    --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$background-light};
-    --global-text-color                 : #{$text};
-    --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$background-lighter};
+  --global-base-color                : #D1B97A;  /* muted gold accent */
+  --global-bg-color                  : #0E0B14;  /* almost-black aubergine */
+  --global-footer-bg-color           : #0C0A13;
+  --global-border-color              : #241F3F;
+  --global-dark-border-color         : #1C1734;
+
+  --global-text-color                : #D8D3E6;
+  --global-text-color-light          : #B4ABC9;
+
+  --global-link-color                : #8DA2FB;
+  --global-link-color-hover          : #A5B4FC;
+  --global-link-color-visited        : #C4B5FD;
+
+  --global-code-background-color     : #15122A;
+  --global-code-text-color           : #D8D3E6;
+
+  --global-thead-color               : #1A1630;
+
+    /* Make the masthead/nav links the same light color as body text */
+  --global-masthead-link-color: var(--global-text-color);   /* #D8D3E6 */
+  --global-masthead-link-color-hover: var(--global-link-color); /* #8DA2FB */
+
+  /* Optional layers */
+  --surface-1                        : #141026;
+  --surface-2                        : #1B1733;
 }
+

@@ -1,0 +1,62 @@
+/* Bold intro at top */
+.intro-lead {
+  font-weight: 700;
+  margin: 0 0 0.75rem 0;
+}
+
+/* Research block: photo left, text right */
+.research-block {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin: 12px 0 20px;
+}
+
+/* Ensure we’re not using the old float layout */
+.profile-photo-left {
+  float: none;
+}
+
+/* Photo sizing and shape */
+.research-block .profile-photo-left {
+  width: 180px;          /* adjust 160–200px to taste */
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin: 0;             /* Flex handles spacing */
+  flex: 0 0 180px;
+}
+
+/* Comfortable reading width for the research text */
+.research-text {
+  flex: 1 1 320px;
+  min-width: 260px;
+  line-height: 1.65;
+}
+
+/* Mobile: stack image above text */
+@media (max-width: 700px) {
+  .research-block {
+    flex-direction: column;
+    gap: 12px;
+  }
+  .research-block .profile-photo-left {
+    width: 140px;
+    height: 140px;
+  }
+}
+
+/* Tighten spacing after the research block */
+.homepage-content .research-block {
+  margin-bottom: 0px; /* was ~22px */
+}
+
+/* Remove extra top margin on the next paragraph */
+.homepage-content .research-block + p {
+  margin-top: 0; /* prevent margin-collapsing from adding space */
+}
+
+/* Prevents adjustment in _includes/footer/custom.html from being overridden */
+@media (min-width:1024px){
+  .greedy-nav .visible-links { transition: margin-left 120ms ease; }
+}
