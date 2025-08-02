@@ -38,12 +38,11 @@ redirect_from:
       Center for Information Networks and Democracy</a> at Penn.</p>
     </div>
   </div>
-  <p>Outside of research, I love singing (especially musical theatre!), writing when inspiration strikes, and unwinding with yoga, meditation, or a long walk listening to a podcast.</p>
   <p>This site is a space to share my work, including research projects, writing, my CV, and a blog (updated regularly… I hope). I've also put together some advice for aspiring applicants based on what I've learned along the way.</p>
   
   <p>Whether you're a potential collaborator, a prospective student looking for advice, or just want to chat tech and policy – please feel free to reach out. Let's connect!</p>
   
-  <h2>My Experience</h2>
+  <h2>More about me</h2>
   
   <p>I've worked across academia, the policy world, and the private sector, on topics including technological innovation, public policy, public health, and economics, bringing a cross-disciplinary lens to my research.</p>
   
@@ -52,4 +51,7 @@ redirect_from:
   <p>I continue to collaborate with groups like the Prosocial Design Network and the Integrity Institute, with the belief that research should not only inform, but actively shape better practices and policies in the tech world.</p>
   
   <p>I hold degrees from the University of Cambridge (BA Economics), University College London (MSc Global Health and Development) and Harvard Kennedy School (Master of Public Policy).</p>
+
+  <p>Outside of research, I love singing (especially musical theatre!), writing when inspiration strikes, and unwinding with yoga, meditation, or a long walk listening to a podcast.</p>
+
 </div>
