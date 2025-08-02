@@ -33,7 +33,7 @@ redirect_from:
          loading="lazy">
     <div class="research-text">
       <p>My research explores how digital platforms shape what we believe, how we interact, and whether those interactions help or harm our communities. I'm especially interested in how thoughtful platform design and governance can promote information integrity and support prosocial behavior. I am pursuing this research under the supervision of
-      <a href="https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon" target="_blank" rel="noopener">
+      <a href="https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd" target="_blank" rel="noopener">
        Professor Sandra Gonz&aacute;lez-Bail&oacute;n</a>, and am affiliated with the <a href="https://cind.asc.upenn.edu" target="_blank" rel="noopener">
       Center for Information Networks and Democracy</a> at Penn.</p>
     </div>
