@@ -60,3 +60,19 @@
 @media (min-width:1024px){
   .greedy-nav .visible-links { transition: margin-left 120ms ease; }
 }
+
+/* Align nav links with content start (right of the sidebar) */
+:root {
+  --rm-sidebar: 60px;  /* measure your sidebar */
+  --rm-gutter: 60px;    /* tweak by eye */
+}
+@media (min-width: 64em) {
+  .masthead .greedy-nav .visible-links > li.masthead__menu-item--lg.persist {
+    padding-right: calc(var(--rm-sidebar) + var(--rm-gutter));
+  }
+}
+
+
+
+
+

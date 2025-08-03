@@ -38,7 +38,7 @@ redirect_from:
       Center for Information Networks and Democracy</a> at Penn.</p>
     </div>
   </div>
-  <p>This site is a space to share my work, including research projects, writing, my CV, and a blog (updated regularly… I hope). I've also put together some advice for aspiring applicants based on what I've learned along the way.</p>
+  <p>This site is a space to share my work, including research projects, writing, my CV, and a blog (updated regularly… I hope). I've also put together some advice for prospective applicants based on what I've learned along the way.</p>
   
   <p>Whether you're a potential collaborator, a prospective student looking for advice, or just want to chat tech and policy – please feel free to reach out. Let's connect!</p>
   

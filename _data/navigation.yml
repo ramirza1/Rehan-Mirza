@@ -11,13 +11,13 @@ main:
   - title: "Home"
     url: "/"
 
-  - title: "Research"
+  - title: "Research & Projects"
     url: "/research/"
 
   - title: "CV"
     url: "/cv/"
 
-  - title: "Advice for aspiring PhD applicants"
+  - title: "Advice for PhD applicants"
     url: "/phd-guidance/"
 
   - title: "Blog"

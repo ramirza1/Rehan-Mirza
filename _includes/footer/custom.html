@@ -16,32 +16,4 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<script>
-(function () {
-  function alignNavToContent() {
-    var content = document.querySelector('.page__inner-wrap');
-    var links   = document.querySelector('.greedy-nav .visible-links');
-    if (!content || !links) return;
-
-    // Remember the original margin-left once so we don't compound on resize
-    if (!links.dataset.baseMl) {
-      links.dataset.baseMl = parseFloat(getComputedStyle(links).marginLeft) || 0;
-    }
-    var baseMl     = parseFloat(links.dataset.baseMl);
-    var contentL   = content.getBoundingClientRect().left + window.scrollX;
-    var linksL     = links.getBoundingClientRect().left + window.scrollX;
-
-    if (window.matchMedia('(min-width:1024px)').matches) {
-      var delta = Math.round(contentL - linksL);
-      links.style.marginLeft = (baseMl + delta) + 'px';
-    } else {
-      links.style.marginLeft = links.dataset.baseMl + 'px';
-    }
-  }
-
-  window.addEventListener('load',  alignNavToContent);
-  window.addEventListener('resize', alignNavToContent);
-})();
-</script>
-
 <!-- end custom footer snippets -->
