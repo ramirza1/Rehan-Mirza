@@ -12,7 +12,7 @@ If you knew me in my HKS days, you may remember me as “a writer”. I took mos
 
 <!--more-->
 
-I’ll briefly share why I got into writing in the first place. Part of it comes from not being the best vocal communicator. I have a naturally quiet and a mind that runs faster than my mouth – when answer a question, I’ll have at least two answers in my head, debating which one to put forward, or how to reconcile them. By the time I start speaking, my mouth will still be catching up with my brain, and the words often come out as an uncertain, overly complicated mess. Especially when I’m nervous.
+I’ll briefly share why I got into writing in the first place. Part of it comes from not being the best vocal communicator. I have a naturally quiet voice and a mind that runs faster than my mouth – when answering a question, I’ll have at least two answers in my head, debating which one to put forward, or how to reconcile them. By the time I start speaking, my mouth will still be catching up with my brain, and the words often come out as an uncertain, overly complicated mess. Especially when I’m nervous.
 
 I’ve always found it easier to express myself through writing. It gives me time to gather those thoughts. On the page, my words can have the weight that uptalk won’t undermine. In short, I can express myself in a way that’s both informed and authoritative.
 
