@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Rehan Mirza"
+title: "Home"
 author_profile: true
+sitemap: true
 redirect_from: 
   - /about/
   - /about.html
