@@ -72,7 +72,13 @@
   }
 }
 
-
-
+/* ===== Spacing You May Also Enjoy Block ===== */
+@media (min-width: 64em) {
+  .page__related .grid__wrapper .grid__item {
+    flex: 0 0 40% !important;
+    max-width: 40% !important;
+    width: 40% !important; /* belt-and-braces */
+  }
+}
 
 

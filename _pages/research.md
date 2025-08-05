@@ -52,12 +52,12 @@ author_profile: true
   </ul>
 </div>
 
-<div class="section is-hidden" id="working-papers">
+<div class="section" id="working-papers">
   <h2>Working papers</h2>
   <ul>
-    <li>
-      Lightful, D., Citing, X., &amp; Thetic, M.P. (2025). <em>Paper Title</em>. <em>Publication Source</em>.
-    </li>
+   <li>
+     Mirza, R. &amp; Dasandi, N. (2025). From evidence to engagement: A narrative review of public and political engagement and the use of data in climate and health. <em>Birmingham Institute for Sustainability and Climate Action (BISCA)</em>.
+   </li>
   </ul>
 </div>
 
@@ -158,8 +158,9 @@ author_profile: true
     <li>Mixed-methods analysis demonstrated prosocial use cases of Twitter in three autocratic country contexts (small business activity, coordinating crisis response, and social activism)</li>
     <li>Extracted and analyzed tweets from Twitter’s Developer Platform and estimated the scope and severity of internet shutdowns across case studies; modeled associated economic costs</li>
     <li>Co-conducted semi-structured interviews with researchers, journalists and NGO workers</li>
-    <li>Co-authored summary paper published in Tech Policy Press
-      <a href="https://www.techpolicy.press/digital-disruption-measuring-the-social-and-economic-costs-of-internet-shutdowns-throttling-of-access-to-twitter/" target="_blank" rel="noopener">Link</a>
+    <li>Co-authored summary paper published in 
+      <a href="https://www.techpolicy.press/digital-disruption-measuring-the-social-and-economic-costs-of-internet-shutdowns-throttling-of-access-to-twitter/" target="_blank" rel="noopener">
+      Tech Policy Press</a>
     </li>
   </ul>
 </div>
