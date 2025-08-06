@@ -249,11 +249,11 @@ You’ve got this.
 
 To my supervisor, Laura, for giving me the confidence to apply when I needed it.
 
-To Nancy, Latanya, and Jolene, for writing the letters that got me in. To Max (my MVP!), Josh, Leonie, Kevin, and others, for helping ensure those letters got in on time.
+To Nancy, Latanya, and Jolene, for writing the letters that got me in. To Max B. (my MVP!), Josh, Leonie, Kevin, and others, for helping ensure those letters got in on time.
 
 To Kevin, Jim, Sharad, Jen, Shiv, Theo, Gaby, Brian, Ruru, Swapneel, and many others, for their support and guidance throughout this process. Special thanks to Sid, Michelle, and Megan, for taking time to do multiple reviews of my application materials, offering much needed candid feedback, and tolerating my stress on multiple occasions!
 
-To Max, Ke, Viswanath, Chloe, Ryan, Cid, Cristiana, Suyash, Lei, Eun, Daniel, Achi, Matt, and Paul for taking the time to share insights about their respective programs.
+To Max S., Ke, Viswanath, Chloe, Ryan, Cid, Cristiana, Suyash, Lei, Eun, Daniel, Achi, Matt, and Paul for taking the time to share insights about their respective programs.
 
 To my grandparents for giving me that extra motivation to publish research, knowing I can send it to you to make you proud.
 
