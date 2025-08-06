@@ -12,24 +12,21 @@ toc: false
 
 All views below are my own, based on my application process, speaking to current PhD students during this process, and several helpful online resources, which I have linked at the bottom of this piece.
 
-Your experiences may differ wildly from mine based on a range of factors, including the field you're applying for, specific schools, the specifics of your profile, and timing – on this last point, I believe that unfortunately funding, and consequently competition for places, is expected to be tight in the coming years across countries. Moreover, this advice is geared towards U.S. PhD applicants, given I applied to U.S. programs.
+Your experiences may differ wildly from mine based on a range of factors, including the field you're applying for, specific schools, the specifics of your profile, and timing. Moreover, this advice is geared towards U.S. PhD applicants in Communication and related fields.
 
-Above all, I want to emphasize this is a human-centric process. Applying for a PhD, you're applying for a job (replace the word "salary" with "stipend"), and like any job application, there's no guaranteed outcome. You can have the 'perfect' application but still not get a place if there's not the right research and personality fit with faculty. 
-
-Conversely, you could have 'gaps' on your application; a questionable GPA, no formal research experience, less recognized affiliations; but a faculty member might see your potential and take a chance.
-
-Objective criteria like published research and high GPA matter, so if you have the opportunities in front of you, take them. However, once you've maximized your credentials and refined your application to the best of your ability, it's out of your hands. **Shoot your shot!**
+Above all, this is a human-centric process. A PhD is a job application  (replace the word "salary" with "stipend"), and like any job application, there's no guaranteed outcome. Once you've maximized your credentials and refined your application to the best of your ability, **shoot your shot!**
 
 ## SECOND DISCLAIMER {#second-disclaimer}
 
-I’m writing this as I start my PhD program, so my perspectives will likely evolve. I’ll update this post or write future pieces to share updated insights.
+I’m writing this as I start my PhD program, so my perspectives will likely evolve. I may update this post to share new insights.
+
 For the full narrative version of this guide, including my personal journey and detailed examples, read the <a href="{% post_url 2025-08-05-phd-application-guide %}">complete blog post</a>.
 
 ## Why I’m writing yet another PhD application guide… {#why-guide}
 
 There are a multitude of PhD application guides out there, but (to my knowledge) few, if any, specific to Communication. If at least one aspiring Comms PhD reads this guide and draws some confidence or knowledge for their applications, I will consider that a success.
 
-I'm writing this as someone with a non-traditional background - older than the median PhD applicant with around 10 years of professional experience, imperfect credentials including a low 2.1 at undergrad and zero journal publications. If any of this applies to you, please don’t be discouraged from applying. I am sharing what I know to help you communicate what truly matters – research potential – and hopefully help you find phenomenal programs that will take a chance on you too.
+I may not represent the 'typical applicant', if there is such a thing - older than the median PhD applicant with around 10 years of professional experience, imperfect credentials including a low 2.1 at undergrad and zero journal publications. If any of this applies to you, please don’t be discouraged from applying. I am sharing what I know to help you communicate what truly matters – research potential – and hopefully help you find phenomenal programs that will take a chance on you too.
 
 ## Contents {#contents}
 
@@ -48,7 +45,7 @@ I'm writing this as someone with a non-traditional background - older than the m
 
 ## Preparation {#preparation}
 
-Here’s what you need to figure out for a PhD application, and you’ll need to do each of these well:
+Here are the list of things you need to figure out for a PhD application:
 - Having clear motivations for doing a PhD
 - Demonstrating research capabilities through strong coursework, research experience, publications, and/or translatable professional experience
 - Identifying your research area(s) and the questions you want to address
@@ -63,14 +60,6 @@ Here’s what you need to figure out for a PhD application, and you’ll need to
 - Post application – preparing for potential interviews
 
 Create a high-level workplan that breaks down into daily tasks, using target dates to stay on track for your earliest deadline. You can find the resources I used to prepare for my application in the <a href="https://drive.google.com/drive/folders/1Zuzwsdehc19uK7EsQKi1Hzd01RWr8uBl" target="_blank" rel="noopener">Google Drive folder</a> shared in the resources section below.
-
-### Unique approaches I recommend: {#unique-approaches}
-
-**Speaking to current students:** Contact current students in programs you're interested in. Students are more likely to respond than faculty and provide more candid responses. They can tell you which faculty would be good research and personality fits, and who's taking students in the upcoming cycle. I’ve found the PhD student community to be exceptionally supportive and helpful! 
-
-**Writing a prospectus for recommenders:** Send your letter writers a comprehensive packet containing a mini statement of purpose, list of programs, specific projects you worked on together, your CV and transcripts, talking points about your strengths, and deadlines. Sending an information packet shows you’re prepared and serious while providing material to help them write the strongest letter possible.
-
-**Doing a 'literature review' of prospective faculty:** Read 3-5 papers from each faculty member you want to work with. This helps you precisely communicate research fit in outreach emails and your statement of purpose, while improving your understanding of the field. It’s an extensive amount of work, but I’d say it’s worth it – it gives you ample material to communicate research fit, puts you in the habit of reading research, and can improve your understanding of the field.
 
 ## Selecting programs and staying organized {#selecting-programs-and-staying-organized}
 
@@ -95,6 +84,10 @@ Before contacting anyone:
 - Read their recent work extensively
 - Understand where their research is heading
 - Check their websites for communication preferences, as some explicitly mention if they prefer not to be contacted
+
+**Doing a 'literature review' of prospective faculty:** Read 3-5 papers from each faculty member you want to work with. This helps you precisely communicate research fit in outreach emails and your statement of purpose, while improving your understanding of the field. It’s an extensive amount of work, but I’d say it’s worth it – it gives you ample material to communicate research fit, puts you in the habit of reading research, and can improve your understanding of the field.
+
+**Speaking to current students:** Contact current students in programs you're interested in. Students are more likely to respond than faculty and provide more candid responses. They can tell you which faculty would be good research and personality fits, and who's taking students in the upcoming cycle. I’ve found the PhD student community to be exceptionally supportive and helpful! 
 
 ### Basic structure of a cold approach to faculty {#basic-structure-of-a-cold-approach-to-faculty}
 
@@ -126,7 +119,9 @@ Strong letters can swing things in your favor, while poor ones can break your ap
 
 **Choosing recommenders:** Ideally three academic recommenders who can speak to your research potential. If coming from industry, include a professional supervisor who can address research capabilities. Choose people who know you in a research capacity and can point to specific projects.
 
-**When and how to ask:** Ask at least three months before your earliest deadline. Approach in person if possible. Explain your goals clearly and provide an "easy out" for potentially lukewarm recommendations. As mentioned earlier, a ‘recommender prospectus’, providing key details such as programs and deadlines, specific projects you’ve worked on together, and talking points you would like them to highlight, can help inform a strong recommendation letter. 
+**When and how to ask:** Ask at least three months before your earliest deadline. Approach in person if possible. Explain your goals clearly and provide an "easy out" for potentially lukewarm recommendations.
+
+**Writing a prospectus for recommenders:** Send your letter writers a comprehensive packet containing a mini statement of purpose, list of programs, specific projects you worked on together, your CV and transcripts, talking points about your strengths, and deadlines. Sending an information packet shows you’re prepared and serious while providing material to help them write the strongest letter possible.
 
 **Managing the process:** Send reference requests as soon as possible after getting their agreement. Send gentle reminders two weeks before deadlines. Have a backup plan - identify a backup recommender in case someone can’t submit on time.
 
@@ -153,7 +148,15 @@ This is your most important document - your sales pitch for why you belong in th
 - Focusing on non-academic experiences without connecting to research potential
 - Generic statements that could apply to any program
 
-**Every sentence should focus on:** What research you're interested in, what activities you've conducted, specific contributions you've made, what you've learned, which faculty you'd like to work with, or what you'd like to do in future.
+Every sentence should be focused on one of the following:
+
+- What research you’re interested in, grounded in specific topics and research questions  
+- What research (or professional) activities you’ve conducted, with a focus on research questions and methodologies  
+- Specific contributions you’ve made through thoughts and actions  
+- What you’ve learned from these activities, and reflections for future work  
+- Which faculty you’d like to work with, grounded in specific topic and research questions  
+- Optionally, what coursework you’d like to study, grounded in specific topics and research questions  
+- What you’d like to do in future, grounded in a how a PhD will enable you to get there
 
 **On the writing process,** start drafting early, ideally late September or early October for December deadlines. Your first draft will not be good, and it’s going to take many iterations. Make sure you read other statements from successful students in your field, and a few different guides, some of which I’ve linked in the resources section below.
 
@@ -162,12 +165,15 @@ This is your most important document - your sales pitch for why you belong in th
 ## Personal Statement {#personal-statement}
 
 While SOPs focus on research interests and academic preparation, personal statements typically ask about your background, challenges you’ve overcome, and personal motivations. 
+
 Note – some schools, like Stanford or Penn, may ask targeted supplemental questions you can treat similarly to the personal statement.
+
 The personal statement should still answer the same fundamental question as every other part of your application: “Does the applicant demonstrate research capability and potential?”
+
 Focus on experiences that genuinely shaped your intellectual development or research interests, and connect personal experiences meaningfully to your academic trajectory.
 
 **Avoid:**
-- Trauma dumping: Don't overshare personal struggles without clear connection to research goals
+- Unfocused personal stories: While it is OK to share personal struggles, these should be clearly connected to research goals
 - Unprofessional content: Avoid stories that make you seem unreliable or unsuitable for academic work
 - Controversial topics: Be cautious with political identity or religion unless they directly relate to your research interests. If you do address these topics, do so thoughtfully, because you never know the views of the person reading your statement
 

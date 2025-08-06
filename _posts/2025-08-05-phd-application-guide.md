@@ -374,7 +374,7 @@ I also would have written a much worse statement, one that could potentially der
 
 **Avoid these pitfalls:**
 
-- **Trauma dumping:** Don't overshare personal struggles without clear connection to your research goals  
+- **Unfocused personal stories:** While it is OK to share personal struggles, these should have a clear connection to your research goals  
 - **Unprofessional content:** Avoid stories that make you seem unreliable or unsuitable for academic work  
 - **Controversial topics:** Be cautious with political identity or religion unless they directly relate to your research interests. If you do address these topics, do so thoughtfully, because you never know the views of the person reading your statement
 
