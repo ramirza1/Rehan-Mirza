@@ -49,7 +49,8 @@ redirect_from:
   
   <p>Most recently, I was a Research Associate at the Shorenstein Center on Media, Politics and Public Policy at Harvard Kennedy School, and previously at the University of Birmingham's School of Government. Earlier in my career, I worked in strategy consulting at L.E.K. Consulting. I've also contributed to research and strategy projects with organizations such as UNICEF, Trustible, and Digital Policy Alert.</p>
   
-  <p>I continue to collaborate with groups like the Prosocial Design Network and the Integrity Institute, with the belief that research should not only inform, but actively shape better practices and policies in the tech world.</p>
+  <p>I continue to collaborate with groups like the Prosocial Design Network and the Integrity Institute (check out the <a href="https://integrityinstitute.org/legislative-tracker" target="_blank" rel="noopener">
+       Tech Policy Tracker!</a>), with the belief that research should not only inform, but actively shape better practices and policies in the tech world.</p>
   
   <p>I hold degrees from the University of Cambridge (BA Economics), University College London (MSc Global Health and Development) and Harvard Kennedy School (Master of Public Policy).</p>
 
