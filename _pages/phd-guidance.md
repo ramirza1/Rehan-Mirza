@@ -253,7 +253,7 @@ To Nancy, Latanya, and Jolene, for writing the letters that got me in. To Max B.
 
 To Kevin, Jim, Sharad, Jen, Shiv, Theo, Gaby, Brian, Ruru, Swapneel, and many others, for their support and guidance throughout this process. Special thanks to Sid, Michelle, and Megan, for taking time to do multiple reviews of my application materials, offering much needed candid feedback, and tolerating my stress on multiple occasions!
 
-To Max S., Ke, Viswanath, Chloe, Ryan, Cid, Cristiana, Suyash, Lei, Eun, Daniel, Achi, Matt, and Paul for taking the time to share insights about their respective programs.
+To Max S., Ke, Viswanath, Chloe, Ryan, Cid, Cristiana, Suyash, Lei, Eun, Daniel, Achi, Nusrat, Matt, and Paul for taking the time to share insights about their respective programs.
 
 To my grandparents for giving me that extra motivation to publish research, knowing I can send it to you to make you proud.
 
