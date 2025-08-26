@@ -511,7 +511,7 @@ And most importantly, to **my parents** for their unwavering support during this
 - <a href="https://mehtaver.se/how-to-write-a-statement-of-purpose-for-grad-school/" target="_blank" rel="noopener">Dr Swapneel Mehta’s SOP guide</a> – shoutout to Swapneel who’s an amazing person invested in helping others get their start in research. He sent me a bunch of other resources during my own application process, and I know he helps several students each application cycle
 - <a href="https://lucylai.com/blog/gradapps.html" target="_blank" rel="noopener">Dr Lucy Lai’s guide to PhD applications in STEM</a>  
 - <a href="https://www.youtube.com/watch?v=fQP1rXzZbbQ" target="_blank" rel="noopener">Dr Lucy Lai’s SOP video guide</a>  
-- <a href="https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/" target="_blank" rel="noopener">Dr Monica Gates’s guide on PhD Applications</a>
+- <a href="https://womenincocosci.com/posts/how_to_apply_to_graduate_school.html" target="_blank" rel="noopener">Dr Vael Gates’s guide on PhD Applications</a>
 - <a href="https://www.youtube.com/watch?v=5KtmOlEIdTk" target="_blank" rel="noopener">Dr Darren Lipomi’s guide to getting into graduate school in science and engineering (PhD)</a>
 - <a href="https://www.youtube.com/watch?v=tz42lx6BhqY" target="_blank" rel="noopener">Dr Angela Collier’s guide on why “your personal statement sucks”</a>
 
