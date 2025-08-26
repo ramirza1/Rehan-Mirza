@@ -74,11 +74,34 @@
 
 /* ===== Spacing You May Also Enjoy Block ===== */
 @media (min-width: 64em) {
+  .page__related .grid__wrapper {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 2rem !important;
+    max-width: 100% !important;
+  }
+  
   .page__related .grid__wrapper .grid__item {
-    flex: 0 0 40% !important;
-    max-width: 40% !important;
-    width: 40% !important; /* belt-and-braces */
+    flex: none !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    overflow-wrap: break-word !important;
+    margin: 0 !important; /* Reset any margins */
+    padding: 0 !important; /* Reset any padding */
+  }
+  
+  /* Reset margins on specific items that might be causing the indent */
+  .page__related .grid__wrapper .grid__item:nth-child(even) {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  
+  /* Ensure text content wraps properly */
+  .page__related .grid__wrapper .grid__item * {
+    max-width: 100% !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
   }
 }
-
 
