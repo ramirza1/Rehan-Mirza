@@ -28,7 +28,7 @@ redirect_from:
 
   <!-- Research block: photo left, text right -->
   <div class="research-block">
-    <img src="{{ '/images/Profile1.jpg' | relative_url }}"
+    <img src="{{ '/images/Profile3.jpg' | relative_url }}"
          alt="Rehan Mirza"
          class="profile-photo-left"
          loading="lazy">
