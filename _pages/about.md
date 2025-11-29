@@ -23,7 +23,7 @@ redirect_from:
 
   <!-- Top intro (bold) -->
   <p class="intro-lead">
-    <strong>Hi there! I'm Rehan, an incoming PhD student at the Annenberg School for Communication at the University of Pennsylvania, starting Fall 2025.</strong>
+    <strong>Hi there! I'm Rehan, a PhD student at the Annenberg School for Communication at the University of Pennsylvania.</strong>
   </p>
 
   <!-- Research block: photo left, text right -->
