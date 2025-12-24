@@ -27,12 +27,12 @@ The silence on the blog front belies what has been a whirlwind semester. There w
 - Made friends! I have found so much community in Philly. I went from knowing only one person in this city in August (who I am immensely grateful for introducing me to my awesome roommates!) to knowing about 50
 
 ![A bridge from the view](/images/posts/first_semester_recap/bridge-view.jpg)
-*Figure 1: A Bridge from the View*
+*A Bridge from the View*
 
 I came into graduate school with a semi-clear idea of what I wanted my research agenda to be, but also with an awareness that initial research agendas change dramatically in the first year or two as people realize "what it actually means to do research." And although I'm definitely learning fast "what it actually means to do research", I'm happy to say that – for now – I'm sticking to the agenda I came in with (see figure below).
 
 ![Research framework](/images/posts/first_semester_recap/research-framework.png)
-*Figure 2: Conceptual framework for Rehan's research (or more ambitiously, a "Theory of Change for Digital Platforms")*
+*Conceptual framework for Rehan's research (or more ambitiously, a "Theory of Change for Digital Platforms")*
 
 The community moderation experiment I developed maps well onto all three elements of this framework. Respondents played the role of moderators on a meme forum and judged whether political memes violated forum rules - [you can try it here](https://upenn.co1.qualtrics.com/jfe6/preview/previewId/8293b897-2f20-4429-826a-458dbbcead0b/SV_0BtlENc4Bbbniei?Q_CHL=preview&Q_SurveyVersionID=current)!
 
@@ -44,7 +44,7 @@ So "what does it actually mean to do research"? Some reflections:
 
 **Concept explication and measurement approaches are crucial.** When I initially drafted my experiment's study design and grant proposal, it got ripped apart. The main reason was the lack of a solid theory behind what I was proposing. Instinctively I had the right idea – alignment influenced moderation judgments – but I had little justification from what is a vast body of literature on this topic to support my study design. This flowed through to construct validity – that we are properly measuring what we intend to measure. I initially confused my outcome, the violative nature of content – or more precisely, if content was recognized as violating ('violation recognition'), and how severely violations are punished ('enforcement severity') – with one of the study manipulations. I essentially said, "We will manipulate how violating the content is, and we want to measure how that affects how violating people think the content is". Doesn't make much sense! I realized I needed another dimension – incivility – and explicit forum rules stating that incivility violated community standards.
 
-The other big reflection is to **be humble in knowing what you don't know, but hopefully will in the future.** The answer to addressing that is simple, if difficult. Read. Then read some more. My advisor starts and ends every semester asking people in our center to share one piece of research that has blown our mind. This demonstrates the importance of reading regularly, to keep up to date with a constantly evolving literature, and one you're playing catch up with simultaneous as you're consolidating foundational knowledge on topics you're trying to become an expert on.
+The other big reflection is to **be humble in knowing what you don't know, but hopefully will in the future.** The answer to addressing that is simple, if difficult. Read. Then read some more. My advisor starts and ends every semester asking people in our center to share one piece of research that has blown our mind. This demonstrates the importance of reading regularly, to keep up to date with a constantly evolving literature, and one you're playing catch up with simultaneously, as you're consolidating foundational knowledge on topics you're trying to become an expert on.
 
 **Technical foundations are important,** and that leads nicely into plans for next semester. I'm taking an intro to stats class for the fourth time in my higher education next semester, but I'm excited to do so because every time I learn something new. Between that class, Modern Data Mining, and ongoing research, I hope to one day be proficient in R. I'd like to continue to build my knowledge of the mechanisms literature, build out a database of emerging interventions that could move the dial in tech industry, and continue to develop the two studies I started this semester into publishable work that provides tangible contributions to both literature and practice.
 
