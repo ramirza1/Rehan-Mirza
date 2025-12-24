@@ -1,9 +1,9 @@
 ---
 layout: single
 title: "First Semester Recap"
-description: ""A whirlwind semester of experiments, measurements, and learning what it actually means to do research."
-date: 2025-12-23 10:00:00 -0400
-last_modified_at: 2025-12-23 10:00:00 -0400
+description: "A whirlwind semester of experiments, measurements, and learning what it actually means to do research."
+date: 2025-12-23 22:00:00 -0500
+last_modified_at: 2025-12-23 22:00:00 -0500
 author_profile: true
 comments: false
 tags: [PhD life, technology, research updates, experiments, prosocial design, content moderation, discourse quality, community]
