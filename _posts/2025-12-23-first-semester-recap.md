@@ -7,7 +7,7 @@ last_modified_at: 2025-12-23 22:00:00 -0500
 author_profile: true
 comments: false
 tags: [PhD life, technology, research updates, experiments, prosocial design, online communities, discourse quality, community governance]
-excerpt: "I said I'd blog regularly. That hasn't happened. But between fielding an experiment, working with PDN, faciliting a workshop at Roblox, and making friends, it's been a packed semester."
+excerpt: "I said I'd blog regularly. That hasn't happened. But between fielding an experiment, working with PDN, facilitating a workshop at Roblox, and making friends, it's been a packed semester."
 ---
 
 My grand plans of keeping the blog regularly updated have fallen by the wayside. An initial target to write something every week quickly became once every two weeks, then once a month, then we're suddenly at the end of the semester and there have been no updates since August, aside from a new headshot photo. It's a very nice headshot, I have to admit.
