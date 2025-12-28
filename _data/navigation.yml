@@ -20,6 +20,9 @@ main:
   - title: "Advice for PhD applicants"
     url: "/phd-guidance/"
 
+  - title: "Pensieve"
+    url: https://pensieve.rehanmirza.net
+
   - title: "Blog"
     url: "/blog/"
 
