@@ -21,7 +21,7 @@ main:
     url: "/phd-guidance/"
 
   - title: "Pensieve"
-    url: https://pensieve.rehanmirza.net
+    url: https://pensieve-live.streamlit.app/
 
   - title: "Blog"
     url: "/blog/"
