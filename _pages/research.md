@@ -121,7 +121,7 @@ author_profile: true
 <div class="section" id="selected-projects">
   <h2>Selected projects</h2>
 
-  <p><strong>Mapping LLM-based tools that foster public discourse</strong> (forthcoming) | Prosocial Design Network</p>
+  <p><strong><a href="https://www.prosocialdesign.org/blog/report-mapping-llm-tools-for-public-discourse-pluralism-social-cohesion" target="_blank" rel="noopener">Mapping LLM-based tools that foster public discourse</a></strong> | Prosocial Design Network</p>
   <ul>
     <li>Mapped innovative tools and software built with large language models that foster public discourse on social media</li>
     <li>Analyzed tools across key dimensions including purpose, function, and the degree of platform integration and user interaction</li>
