@@ -10,7 +10,7 @@ tags: [research, phd, academic-notes, literature-review, knowledge-management, s
 excerpt: "I built the Pensieve: a search tool that helps me trace concepts, authors, and arguments across my ever-expanding set of notes and papers."
 ---
 
-As I go through my PhD, my notes are going to expand evermore. To keep track, I've designed a searchable repository to help me track and trace concepts across the years. I'm sharing this tool *([an ongoing work in progress!](https://github.com/ramirza1/pensieve-project-template)) with the research community, in the hope it will be useful to others.
+As I go through my PhD, my notes are going to expand evermore. To keep track, I've designed a searchable repository to help me track and trace concepts across the years. I'm sharing this tool([an ongoing work in progress!](https://github.com/ramirza1/pensieve-project-template)) with the research community, in the hope it will be useful to others.
 
 <!--more-->
 
