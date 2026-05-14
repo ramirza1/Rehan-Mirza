@@ -71,7 +71,7 @@ Three commitments help me to manage these risks. I will root my work in specific
 
 ## What comes next
 
-This summer is execution, driving forward on three ongoing projects. I aim to develop my moderation experiment into a full paper, building on the results I presented at the CIND workshop. I also want to develop a proposal from last semester into a computational study of Reddit’s r/ChangeMyView delta system, as an example of a prosocial design feature that shapes discourse quality. Furthermore, through my qualitative methods class, I developed a grounded theory project using the [Facebook Archive](https://fbarchive.org/) to examine how internal governance decisions around algorithms and product design were made at Meta, taking advantage of this unique dataset.
+This summer is execution, driving forward on three ongoing projects. I aim to develop my moderation experiment into a full paper, building on the results I presented at the CIND workshop. I also want to develop a proposal from last semester into a computational study of Reddit’s r/ChangeMyView delta system, as an example of a prosocial design feature that shapes discourse quality. Furthermore, through my qualitative methods class, I developed a grounded theory project examining internal platform governance through archival corporate documents.
 
 I’ll end where I ended the proseminar paper, with a line of advice from an adviser at Harvard when I first decided to pursue a PhD:
 
