@@ -55,9 +55,12 @@ author_profile: true
 <div class="section" id="working-papers">
   <h2>Working papers</h2>
   <ul>
-   <li>
-     Mirza, R. &amp; Dasandi, N. (2025). From evidence to engagement: A narrative review of public and political engagement and the use of data in climate and health. <em>Birmingham Institute for Sustainability and Climate Action (BISCA)</em>.
-   </li>
+    <li>
+      Dasandi, N., Kalatzi-Pantera, D., and Mirza, R. "Healthy Dissent in a Hostile Climate: Message and Messenger Effects on Public Responses to Disruptive Climate Protests." <a href="https://osf.io/smd9u/files/sghzx" target="_blank" rel="noopener">OSF preprint</a>.
+    </li>
+    <li>
+      Mirza, R. &amp; Dasandi, N. (2025). From evidence to engagement: A narrative review of public and political engagement and the use of data in climate and health. <em>Birmingham Institute for Sustainability and Climate Action (BISCA)</em>.
+    </li>
   </ul>
 </div>
 
@@ -111,7 +114,12 @@ author_profile: true
   <h2>Presentations &amp; conferences</h2>
   <ul>
     <li>
-      “A Narrative Review of Public and Political Engagement on Health and Climate Change.”
+      "Motivated moderation: How partisan alignment influences civility judgments in community-based meme forums."
+      <a href="https://drive.google.com/file/d/1e5vQUHZ77IMvCyfx73x5mosuHgvBFPyj/view?usp=sharing" target="_blank" rel="noopener">Slides</a>.
+      Mirza, R., <a href="https://www.asc.upenn.edu/research/centers/cind2026" target="_blank" rel="noopener">"Guardrails in Communication Networks"</a>, Center for Information Networks and Democracy, May 1, 2026.
+    </li>
+    <li>
+      "A Narrative Review of Public and Political Engagement on Health and Climate Change."
       <a href="https://drive.google.com/file/d/1pRK8P_tsMEpWrawfbZF2ac3pI-Nx5cp7/view?usp=sharing" target="_blank" rel="noopener">Slides</a>.
       Mirza, R., Birmingham Institute for Sustainability and Climate Action, July 16, 2025.
     </li>
@@ -120,6 +128,13 @@ author_profile: true
 
 <div class="section" id="selected-projects">
   <h2>Selected projects</h2>
+
+  <p><strong><a href="https://www.prosocialdesign.org/blog/connecting-researchers-practitioners-to-catalyze-actionable-research" target="_blank" rel="noopener">Connecting Researchers &amp; Practitioners to Catalyze Actionable Research</a></strong> | Prosocial Design Network</p>
+  <ul>
+    <li>Co-facilitated expert working groups bringing together researchers and technology practitioners to explore how independent research can better inform prosocial platform design</li>
+    <li>Contributed to a report defining the core elements of “actionable research,” identifying barriers to researcher–practitioner collaboration, and outlining pathways to strengthen research translation into practice</li>
+    <li>Helped develop recommendations including practitioner research-priority surveys, shared feedback and matchmaking platforms, and a Prosocial Design Playbook for applying evidence-based design principles</li>
+  </ul>
 
   <p><strong><a href="https://www.prosocialdesign.org/blog/report-mapping-llm-tools-for-public-discourse-pluralism-social-cohesion" target="_blank" rel="noopener">Mapping LLM-based tools that foster public discourse</a></strong> | Prosocial Design Network</p>
   <ul>
