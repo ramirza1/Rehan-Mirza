@@ -8,14 +8,8 @@ redirect_from:
   - /about.html
 ---
 <style>
-.author__avatar {
-  display: none !important;
-}
-</style>
-<style>
-.page__title {
-  display: none;
-}
+.author__avatar { display: none !important; }
+.page__title { display: none; }
 </style>
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
@@ -33,25 +27,24 @@ redirect_from:
          class="profile-photo-left"
          loading="lazy">
     <div class="research-text">
-      <p>My research explores how digital platforms shape what we believe, how we interact, and whether those interactions help or harm our communities. I am a computational social scientist who also leverages experiment and qualitative methods to study platform design, governance, information integrity, and online discourse. I am especially interested in supporting the develpment of healthier, more prosocial online spaces. I am pursuing this research under the supervision of
-      <a href="https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd" target="_blank" rel="noopener">
-       Professor Sandra Gonz&aacute;lez-Bail&oacute;n</a>, and am affiliated with the <a href="https://cind.asc.upenn.edu" target="_blank" rel="noopener">
-      Center for Information Networks and Democracy</a> at Penn.</p>
+      <p>My research explores how digital platforms shape what we believe, how we interact, and whether those interactions help or harm our communities. I am a computational social scientist who also draws on experimental and qualitative methods. My current projects focus on community moderation, online discourse quality, and algorithmic design and governance, with a particular interest in how thoughtful platform design can promote information integrity and prosocial behavior.</p>
     </div>
   </div>
-  <p>This site is a space to share my research projects, writing, my CV, and the occasional blog post to document my PhD journey. I’ve  built <em>Pensieve</em>, a tool I use to process and semantically search my research notes and the papers I’ve read. Take a look <a href="https://pensieve-live.streamlit.app" target="_blank" rel="noopener noreferrer">here</a>, or set up your own version <a href="https://github.com/ramirza1/pensieve-project-template" target="_blank" rel="noopener noreferrer">here</a>! I've also put together some advice for prospective applicants based on what I've learned along the way.</p>
-  
+
+  <p>I am pursuing this research under the supervision of <a href="https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd" target="_blank" rel="noopener">Professor Sandra Gonz&aacute;lez-Bail&oacute;n</a>, and am affiliated with the <a href="https://cind.asc.upenn.edu" target="_blank" rel="noopener">Center for Information Networks and Democracy</a> at Penn.</p>
+
+  <p>This site is a space to share my research projects, writing, CV, and the occasional blog post to document my PhD journey. I've built <em>Pensieve</em>, a tool I use to process and semantically search my research notes and the papers I've read. Take a look <a href="https://pensieve-live.streamlit.app" target="_blank" rel="noopener noreferrer">here</a>, or set up your own version <a href="https://github.com/ramirza1/pensieve-project-template" target="_blank" rel="noopener noreferrer">here</a>! I've also put together some advice for prospective applicants based on what I've learned along the way.</p>
+
   <p>Whether you're a potential collaborator, a prospective student looking for advice, or just want to chat tech and policy – please feel free to reach out. Let's connect!</p>
-  
+
   <h2>More about me</h2>
-  
+
   <p>I've worked across academia, the policy world, and the private sector, on topics including technological innovation, public policy, public health, and economics, bringing a cross-disciplinary lens to my research.</p>
-  
+
   <p>Most recently, I was a Research Associate at the Shorenstein Center on Media, Politics and Public Policy at Harvard Kennedy School, and previously at the University of Birmingham's School of Government. Earlier in my career, I worked in strategy consulting at L.E.K. Consulting. I've also contributed to research and strategy projects with organizations such as UNICEF, Trustible, and Digital Policy Alert.</p>
-  
-  <p>I continue to collaborate with groups like the Prosocial Design Network and the Integrity Institute (check out the <a href="https://integrityinstitute.org/legislative-tracker" target="_blank" rel="noopener">
-       Tech Policy Tracker!</a>), with the belief that research should not only inform, but actively shape better practices and policies in the tech world.</p>
-  
+
+  <p>I continue to collaborate with groups like the Prosocial Design Network and the Integrity Institute (check out the <a href="https://integrityinstitute.org/legislative-tracker" target="_blank" rel="noopener">Tech Policy Tracker!</a>), with the belief that research should not only inform, but actively shape better practices and policies in the tech world.</p>
+
   <p>I hold degrees from the University of Cambridge (BA Economics), University College London (MSc Global Health and Development) and Harvard Kennedy School (Master of Public Policy).</p>
 
   <p>Outside of research, I love singing (especially musical theatre!), writing when inspiration strikes, and unwinding with yoga, meditation, or a long walk listening to a podcast.</p>

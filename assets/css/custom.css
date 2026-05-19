@@ -19,12 +19,13 @@
 
 /* Photo sizing and shape */
 .research-block .profile-photo-left {
-  width: 180px;          /* adjust 160–200px to taste */
-  height: 200px;
+  width: 200px;
+  height: 230px;
   object-fit: cover;
+  object-position: center top;
   border-radius: 10px;
-  margin: 0;             /* Flex handles spacing */
-  flex: 0 0 180px;
+  margin: 0;
+  flex: 0 0 200px;
 }
 
 /* Comfortable reading width for the research text */
@@ -41,8 +42,8 @@
     gap: 12px;
   }
   .research-block .profile-photo-left {
-    width: 140px;
-    height: 140px;
+    width: 180px;        /* was 140px */
+    height: 210px;       /* was 140px */
   }
 }
 
