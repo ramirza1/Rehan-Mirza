@@ -33,13 +33,13 @@ redirect_from:
          class="profile-photo-left"
          loading="lazy">
     <div class="research-text">
-      <p>My research explores how digital platforms shape what we believe, how we interact, and whether those interactions help or harm our communities. I'm especially interested in how thoughtful platform design and governance can promote information integrity and support prosocial behavior. I am pursuing this research under the supervision of
+      <p>My research explores how digital platforms shape what we believe, how we interact, and whether those interactions help or harm our communities. I am a computational social scientist who also leverages experiment and qualitative methods to study platform design, governance, information integrity, and online discourse. I am especially interested in supporting the develpment of healthier, more prosocial online spaces. I am pursuing this research under the supervision of
       <a href="https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd" target="_blank" rel="noopener">
        Professor Sandra Gonz&aacute;lez-Bail&oacute;n</a>, and am affiliated with the <a href="https://cind.asc.upenn.edu" target="_blank" rel="noopener">
       Center for Information Networks and Democracy</a> at Penn.</p>
     </div>
   </div>
-  <p>This site is a space to share my work, including research projects, writing, my CV, and a blog (updated regularly… I hope). I’ve built <em>Pensieve</em>, a tool I use to process and semantically search my research notes and the papers I’ve read. Take a look <a href="https://pensieve-live.streamlit.app" target="_blank" rel="noopener noreferrer">here</a>, or set up your own version <a href="https://github.com/ramirza1/pensieve-project-template" target="_blank" rel="noopener noreferrer">here</a>! I've also put together some advice for prospective applicants based on what I've learned along the way.</p>
+  <p>This site is a space to share my research projects, writing, my CV, and the occasional blog post to document my PhD journey. I’ve  built <em>Pensieve</em>, a tool I use to process and semantically search my research notes and the papers I’ve read. Take a look <a href="https://pensieve-live.streamlit.app" target="_blank" rel="noopener noreferrer">here</a>, or set up your own version <a href="https://github.com/ramirza1/pensieve-project-template" target="_blank" rel="noopener noreferrer">here</a>! I've also put together some advice for prospective applicants based on what I've learned along the way.</p>
   
   <p>Whether you're a potential collaborator, a prospective student looking for advice, or just want to chat tech and policy – please feel free to reach out. Let's connect!</p>
   
