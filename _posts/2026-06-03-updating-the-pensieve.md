@@ -20,7 +20,7 @@ I've added a small local web form – the **Note Generator** – to smooth this 
 
 ![Defining research areas and subtopics](/images/posts/pensieve_update/Taxonomy_CSV.jpg)
 
-Then open up the 'Note Generator.bat' file, providing admin access as needed. Choose the bucket (in my case corresponding to my eight research areas) and subtopic, then the semester:
+Then open up the `Note Generator.bat` file, providing admin access as needed. Choose the bucket (in my case corresponding to my eight research areas) and subtopic, then the semester:
 
 ![Form overview – bucket, subtopic and semester selection](/images/posts/pensieve_update/Form_overview_1.jpg)
 
