@@ -16,7 +16,7 @@ A quick update on the [Pensieve](https://pensieve-live.streamlit.app/) - a tool 
 
 One thing that's been slightly clunky about using the Pensieve is adding new notes. This has meant hand-formatting a Word document to a specific heading structure: Heading 2 for subtopics, Heading 3 for each paper, URL and author lines in the right places. The indexer is picky, and getting it wrong meant things didn't surface in search. Having to go into documents also meant this was a process I deferred to the end of the past two semesters, creating a tedious process to copy over and reformat all my readings in one go. 
 
-I've added a small local web form – the **Note Generator** – to smooth this out. First, open up 'taxonomy.csv' to define your research areas (i.e., 'buckets') and associated subtopics:
+I've added a small local web form – the **Note Generator** – to smooth this out. First, open up `taxonomy.csv` to define your research areas (i.e., 'buckets') and associated subtopics:
 
 ![Defining research areas and subtopics](/images/posts/pensieve_update/Taxonomy_CSV.jpg)
 
