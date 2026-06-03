@@ -2,8 +2,8 @@
 layout: single
 title: "Updating the Pensieve with Smoother Note Entry"
 description: "A process update on the Pensieve - introducing the Note Generator to reduce the friction of adding research notes."
-date: 2026-06-03 09:49:00 -0400
-last_modified_at: 2026-06-03 09:49:00 -0400
+date: 2026-06-02 21:30:00 -0400
+last_modified_at: 2026-06-02 21:30:00 -0400
 author_profile: true
 comments: false
 tags: [research, phd, academic-notes, knowledge-management, semantic-search, AI-in-research, research-tools]
