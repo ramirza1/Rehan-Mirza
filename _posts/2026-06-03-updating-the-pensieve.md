@@ -10,7 +10,7 @@ tags: [research, phd, academic-notes, knowledge-management, semantic-search, AI-
 excerpt: "A quick process update on the Pensieve: the Note Generator is a form that makes it simpler to consolidate my research notes, and some deployment improvements under the hood."
 ---
 
-A quick update on the [Pensieve](https://pensieve-live.streamlit.app/) — a tool I introduced [earlier this year](https://rehanmirza.net/introducing-the-pensieve/) for searching across my research notes and papers.
+A quick update on the [Pensieve](https://pensieve-live.streamlit.app/) - a tool I introduced [earlier this year](https://rehanmirza.net/introducing-the-pensieve/) for searching across my research notes and papers.
 
 <!--more-->
 
@@ -38,7 +38,7 @@ I also tidied up the deployment pipeline, making it more robust for regular upda
 
 ## Try it yourself
 
-The full project is available on [GitHub](https://github.com/ramirza1/pensieve-project-template) – including the Note Generator. The README has setup instructions.
+The full project is available on [GitHub](https://github.com/ramirza1/pensieve-project-template), including the Note Generator. The README has setup instructions.
 
 ## A note on AI
 
