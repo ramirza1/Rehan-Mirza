@@ -43,11 +43,16 @@ author_profile: true
 
 <h1 class="research-title">Research &amp; Projects</h1>
 
-<div class="section is-hidden" id="publications">
+<div class="section" id="publications">
   <h2>Publications</h2>
   <ul>
     <li>
-      Lightful, D., Citing, X., &amp; Thetic, M.P. (2025). <em>Paper Title</em>. <em>Publication Source</em>. DOI link.
+      Mirza, R. &amp; González-Bailón, S. (2026). 
+      <a href="https://rohanalexander.github.io/notes_on_the_future/12-Mirza_Gonzalez_Bailon.html" target="_blank">
+        AI and the Measurement Imperative
+      </a>. 
+      In R. Alexander (Ed.), <em>Quantitative Social Science in the Age of AI</em>. 
+      Chapman &amp; Hall/CRC.
     </li>
   </ul>
 </div>
