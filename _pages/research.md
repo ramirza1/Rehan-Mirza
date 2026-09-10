@@ -47,12 +47,10 @@ author_profile: true
   <h2>Publications</h2>
   <ul>
     <li>
-      Mirza, R. &amp; González-Bailón, S. (2026). 
-      <a href="https://rohanalexander.github.io/notes_on_the_future/12-Mirza_Gonzalez_Bailon.html" target="_blank">
-        AI and the Measurement Imperative
-      </a>. 
+      Mirza, R. &amp; González-Bailón, S. (2026). <em>AI and the Measurement Imperative</em>. 
       In R. Alexander (Ed.), <em>Quantitative Social Science in the Age of AI</em>. 
-      Chapman &amp; Hall/CRC.
+      Chapman &amp; Hall/CRC. 
+      <a href="https://rohanalexander.github.io/notes_on_the_future/12-Mirza_Gonzalez_Bailon.html" target="_blank">Link</a>.
     </li>
   </ul>
 </div>
